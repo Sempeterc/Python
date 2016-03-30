@@ -1,0 +1,12 @@
+git status	
+git add	
+"git commit -m ""komentar"""	
+cd ….gre v direktorji	
+	
+	
+"  git config --global user.email ""you@example.com"""	
+"  git config --global user.name ""Your Name"""	
+	
+git push	
+	
+git log	pokaže zgodovino sprememb
